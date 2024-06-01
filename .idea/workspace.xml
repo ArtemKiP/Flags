@@ -1,13 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dfc9ce57-fa6b-4b9f-b00f-fdbf0fe770f4" name="Default Changelist" comment="" />
+    <list default="true" id="dfc9ce57-fa6b-4b9f-b00f-fdbf0fe770f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Card.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Container.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Controls.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/CustomSelect.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Info.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/List.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Main.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/Details.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/HomePage.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/pages/NotFound.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/styles/style.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/setupTests.js" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+        <option value="SCSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2SHZ6l2hcgnLjW1TUz9iY7CRq65" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,8 +58,17 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\flags\src" />
+      <recent name="C:\Users\User\Desktop\flags" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -29,11 +81,24 @@
       <option name="presentableId" value="Default" />
       <updated>1688805294214</updated>
       <workItem from="1688805303123" duration="438000" />
-      <workItem from="1689137538300" duration="862000" />
+      <workItem from="1689137538300" duration="3178000" />
+      <workItem from="1692368867572" duration="1714000" />
+      <workItem from="1692801310556" duration="4873000" />
+      <workItem from="1692983014634" duration="20000" />
+      <workItem from="1693029686998" duration="7787000" />
+      <workItem from="1693039254275" duration="2008000" />
+      <workItem from="1693576060191" duration="4712000" />
+      <workItem from="1693750408330" duration="851000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="455" y="154" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1717229439401">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="455" y="154" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1717229439401" />
   </component>
 </project>
